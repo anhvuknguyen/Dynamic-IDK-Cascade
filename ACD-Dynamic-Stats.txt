@@ -1,0 +1,14 @@
+Average Time: 17.57ms (11.53% Decrease)
+Classification Accuracy: 80.36
+
+Classifier A Count: 4450
+Accuracy: 96.04%
+
+Classifier B Count: 1464
+Accuracy: 92.41%
+
+Classifier D Count: 3392
+Accuracy: 61.14%
+
+Dynamic Classifer Count: 694
+Accuracy: 48.41%
